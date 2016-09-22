@@ -1,7 +1,7 @@
 # WeatherApp
 
 ## Quick Deployment Instruction
-1. download source code here:
+1. download source code here: https://github.com/egig/WeatherApp/releases/download/v0.1.0/weatherapp.zip
 2. extract in document root, e.g `var/www/html` on linux or `C:\\xampp\htdocs` on windows
 3. application folder would be named `weatherapp`
 4. make file `config.php` in application folder with following content:
